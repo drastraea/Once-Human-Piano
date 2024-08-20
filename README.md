@@ -48,5 +48,3 @@ This command will play song.mid with a pitch modulation of 2.
 - pydirectinput: Simulates keyboard input.
 - easygui: File selection dialog.
 - colorama: Text color in terminal.
-
-- 
