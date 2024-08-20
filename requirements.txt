@@ -1,0 +1,4 @@
+colorama==0.4.6
+mido==1.2.9
+pydirectinput==1.0.4
+easygui==0.98.1
