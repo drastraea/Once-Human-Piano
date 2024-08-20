@@ -1,6 +1,7 @@
 # Once-Human-Piano
 Once Human Piano Midi Player
 
+
 ## Installation
 
 ### 1. Clone the Repository
@@ -22,6 +23,7 @@ Install the required Python packages using requirements.txt:
 pip install -r requirements.txt
 ```
 
+
 ## Usage
 ### Command-Line Arguments (Optional)
 --file : Path to the MIDI file you want to play.
@@ -42,6 +44,7 @@ python OnceHuman.py
 python OnceHuman.py --file song.mid --pitch 2
 ```
 This command will play song.mid with a pitch modulation of 2.
+
 
 ## Dependencies
 - mido: MIDI file handling.
