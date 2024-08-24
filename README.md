@@ -1,6 +1,9 @@
 # Once-Human-Piano
 Once Human Piano Midi Player
 
+## Support Me
+If you enjoy my work and would like to support me, you can buy me a coffee on Ko-fi!
+[![Support Me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/drastraea)
 
 ## Installation
 
